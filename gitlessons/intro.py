@@ -8,3 +8,9 @@
 # 3. git commit -m"<comment>" - это команда для сохранения всех изменений в локальном репозитории с комментариями к ним
 # 4. git remote add <origin> <url> - это команда для того чтобы связать ваш локальный репо с удаленным в гитхабе
 # 5. git push <origin> <main> - команда отправки всех ваших изменений на удаленный репозиторий 
+
+1) git init 
+    2) git add .
+    3) git commit -m <comment>
+4) git remote add <origin> <url>
+    5) git push <origin> <main>
