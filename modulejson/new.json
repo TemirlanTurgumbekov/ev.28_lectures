@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Philippa",
+                "last": "Van Diepen"
+            },
+            "location": {
+                "street": {
+                    "number": 9656,
+                    "name": "Blatenplak"
+                },
+                "city": "Ysselsteyn Lb",
+                "state": "Gelderland",
+                "country": "Netherlands",
+                "postcode": "0389 WQ",
+                "coordinates": {
+                    "latitude": "35.8984",
+                    "longitude": "130.4051"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "philippa.vandiepen@example.com",
+            "login": {
+                "uuid": "bc18f2f4-bdfc-49a9-88e2-2c675df40133",
+                "username": "blackdog798",
+                "password": "twilight",
+                "salt": "39WMOMWG",
+                "md5": "2b56f1d150e1f20eafe4b970aae05fc5",
+                "sha1": "cc9f564b348387dc4098da426a5da043c157a62a",
+                "sha256": "f2b7e4b7b33f0cf441c67243235353122517de962cd1f317e8bb3d5a84f39e11"
+            },
+            "dob": {
+                "date": "1967-01-26T18:16:22.140Z",
+                "age": 56
+            },
+            "registered": {
+                "date": "2011-11-29T19:00:43.228Z",
+                "age": 11
+            },
+            "phone": "(089) 2011271",
+            "cell": "(06) 32698879",
+            "id": {
+                "name": "BSN",
+                "value": "01202264"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/34.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+            },
+            "nat": "NL"
+        }
+    ],
+    "info": {
+        "seed": "40a385cab39ba365",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
